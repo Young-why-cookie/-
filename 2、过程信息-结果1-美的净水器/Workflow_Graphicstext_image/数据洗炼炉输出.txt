@@ -1,0 +1,177 @@
+{
+  "body_image_urls": [
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png",
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png",
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png"
+  ],
+  "body_images_data": [
+    {
+      "file_id": "7628630148740464674",
+      "file_name": "下载.png",
+      "id": "7628632968663449626",
+      "item_id": "",
+      "url": "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png"
+    },
+    {
+      "file_id": "7628630148740464674",
+      "file_name": "下载 (1).png",
+      "id": "7628632904235073577",
+      "item_id": "",
+      "url": "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png"
+    },
+    {
+      "file_id": "7628630148740464674",
+      "file_name": "下载 (2).png",
+      "id": "7628633000435433506",
+      "item_id": "",
+      "url": "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png"
+    },
+    {
+      "file_id": "7628630148740464674",
+      "file_name": "下载 (3).png",
+      "id": "7628632946911969320",
+      "item_id": "",
+      "url": "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png"
+    }
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+  "competitor_image_data": [
+    {
+      "file_id": "",
+      "id": "7630624786846253083",
+      "image_urls": [
+        "http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200824/86ddc99c6acb95d9550159c970997aad/notes_pre_post/1040g3k831q93ps03g0005npsmn5g8b3r7ijrba0!nd_dft_wlteh_jpg_3"
+      ],
+      "images_analysis": "【视觉主体】：带醒目大字“低成本水吧台”，标注了净水器、露营灯、盆栽等多个家居软装与家电单品\n【场景背景】：原木风靠窗水吧台，搭配置物书架、户外绿植景观\n【光影色彩】：暖黄室内柔光搭配自然光，整体色调温暖治愈，以木色、绿色为主\n【视觉主体】：美的灰色即热饮水机、黄色马克杯、多盆绿植、木质置物架小酒瓶、卡通手绘柜体装饰\n【场景背景】：带大窗户的复古木质吧台操作台，上方有开放式书架和悬挂装饰灯，窗外有绿植景观\n【光影色彩】：柔和自然自然光，整体暖黄+清新绿为主色调，搭配复古木质棕与明快黄点缀",
+      "item_id": "mat_5ef752a9edce"
+    }
+  ],
+  "competitor_image_urls": [
+    "http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/86ddc99c6acb95d9550159c970997aad/notes_pre_post/1040g3k831q93ps03g0005npsmn5g8b3r7ijrba0!nd_dft_wlteh_jpg_3"
+  ],
+  "competitor_text_data": [
+    {
+      "comments": [
+        {
+          "content": "你好，桌面和黄色的橱子有链接吗",
+          "likes": "2",
+          "user_name": "孙头头"
+        },
+        {
+          "content": "水质干净吗",
+          "likes": "0",
+          "user_name": "黑眼圈"
+        },
+        {
+          "content": "这个牌子我也在用",
+          "likes": "0",
+          "user_name": "萌宠动物园"
+        },
+        {
+          "content": "墙上的动漫画是画上去的吗？好好看",
+          "likes": "0",
+          "user_name": "潇潇在杭州"
+        },
+        {
+          "content": "窗景好好看",
+          "likes": "0",
+          "user_name": "momo"
+        },
+        {
+          "content": "吧台好看",
+          "likes": "0",
+          "user_name": "momo"
+        },
+        {
+          "content": "怎么把木板架起来呀",
+          "likes": "0",
+          "user_name": "郝兔兔🐰🐰"
+        },
+        {
+          "content": "售后保修多久啊？",
+          "likes": "0",
+          "user_name": "陈大大"
+        },
+        {
+          "content": "请问黄色抽屉柜是定制的吗？好可爱呀",
+          "likes": "0",
+          "user_name": "momo"
+        },
+        {
+          "content": "你好 黄色柜子和桌板有链接嘛",
+          "likes": "0",
+          "user_name": "抓你去煲汤"
+        }
+      ],
+      "content": "用一张小木桌，打造一个低成本水吧台，已经变成了我在家里最喜欢的角落。\n\t\n📚 书架上墙，空间利用MAX：我利用了墙面空间，搞了个书架，不仅能放书，还能放些小摆件，瞬间文艺范儿就上来了。\n\t\n🌿 绿植加持，自然气息满满：窗台上摆了几盆绿植，不仅好看，还能净化空气。\n\t\n💡 露营灯一挂，氛围感爆棚：我在水吧台上方挂了个露营灯，晚上一开，那氛围就来了。\n\t\n💧 美的冰魔方净水器：这台净水器，不仅颜值高，而且超级实用。水质纯净，冷水热水一键搞定，按键出冰，冰块透亮融化慢，夏天的时候我经常用来做饮品😋。\n\t\n🎶 蓝牙音响：当然，音乐是少不了的。一个小音响，连上蓝牙，随时都能来点BGM，让生活更有节奏感。\n\t\n🌟 香薰壁炉，温馨感UP：点上香薰，放在香薰壁炉里，整个空间都充满温馨的味道。\n整个水吧台的布置，成本不高💰，但我真的很喜欢，小空间也能有大幸福。\n\t\n#我的水吧台[话题]##低成本改造[话题]##美的冰魔方[话题]##美的冰魔方净水器[话题]##生活小确幸[话题]##家居装饰[话题]##小红书家居[话题]##温馨角落[话题]##出租屋改造[话题]#",
+      "file_id": "",
+      "id": "7630624786846253083",
+      "item_id": "mat_5ef752a9edce",
+      "tags": [
+        "我的水吧台",
+        "低成本改造",
+        "美的冰魔方",
+        "美的冰魔方净水器",
+        "生活小确幸",
+        "家居装饰",
+        "小红书家居",
+        "温馨角落",
+        "出租屋改造"
+      ],
+      "title": ""
+    }
+  ],
+  "errorBody": null,
+  "generated_images_data": [
+    {
+      "file_id": "",
+      "id": "res_1776644737911_1",
+      "item_id": "",
+      "type": "proposal_preview",
+      "url": "https://s.coze.cn/t/gKmn9V-Z5c0/"
+    }
+  ],
+  "isSuccess": true,
+  "is_success": true,
+  "msg": "物料提纯成功",
+  "product_specs_data": [
+    {
+      "doc_analysis": "【产品名称】：美的超滤净水器；美的反渗透净水器\n【核心卖点】：超滤机不插电；保留矿物质；无废水；反渗透机过滤精度0.0001um；可直饮；自主换芯；额定净水量4000L以上\n【目标人群与场景】：水质好地区用户；预算有限用户；追求直饮水用户；家庭净水场景",
+      "file_id": "7629182550464036879",
+      "file_url": "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx",
+      "id": "7629182550464036879",
+      "item_id": ""
+    }
+  ],
+  "proposal_data": {
+    "audience": "预算有限想升级饮水品质的学生党",
+    "content": "### 提案二：闺蜜种草-省钱攻略\n- 🎯 细分受众：预算有限想升级饮水品质的学生党\n- 🔥 爆款标题：少喝30杯奶茶！就能get能直饮的净水机🥤\n- 📝 核心思路：算低成本账，突出自主换芯、额定水量高性价比\n- 🖼️ 画面构图：原木风水吧台场景，标注净水器低成本属性",
+    "id": "res_1776644737911_1",
+    "image_url": null,
+    "index": 1,
+    "status": "success",
+    "title": "少喝30杯奶茶！就能get能直饮的净水机🥤"
+  },
+  "proposal_image_urls": [
+    "https://s.coze.cn/t/gKmn9V-Z5c0/"
+  ],
+  "sys_config_dict": {
+    "audience": "goodies_buyer",
+    "audience_cn": "好物买家",
+    "image_model": "jimeng",
+    "image_model_cn": "即梦4.5",
+    "ratio": "3:4",
+    "ratio_cn": "小红书",
+    "text_model": "doubao",
+    "text_model_cn": "豆包",
+    "tone": "bestie",
+    "tone_cn": "闺蜜种草"
+  }
+}

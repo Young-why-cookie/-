@@ -1,0 +1,17 @@
+{
+  "body_image_urls": [
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png",
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png",
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png"
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+  "competitor_image_urls": [
+    "http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/86ddc99c6acb95d9550159c970997aad/notes_pre_post/1040g3k831q93ps03g0005npsmn5g8b3r7ijrba0!nd_dft_wlteh_jpg_3"
+  ],
+  "mode": "jimeng",
+  "visual_output": "===分镜开始===\n垫图编号：1\n提示词：中景镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，净水器机身带触控操作面板、透明可拆卸原水箱，触控区亮着淡蓝色背光，出水口中正对下方的透明玻璃杯，杯里盛着澄澈的直饮水，周围摆放黄底英文马克杯、白色陶瓷花盆绿植、迷你棕色置物架、香薰小摆件、马歇尔音响，背景是白色方格窗户，窗外是葱郁的绿植，上方是带书籍和垂吊绿植的黄色置物架，吧台下方是带红色圆形把手的黄色橱柜，橱柜侧面有童趣卡通涂鸦，整体是温暖明亮的出租屋温馨水吧台场景，自然光从窗户照射进来，暖白色灯带补充照明，物体边缘带柔和阴影，低反差柔光、自然环境光感、胶片颗粒质感\n比例：3:4\n===分镜结束===\n\n===分镜开始===\n垫图编号：2\n提示词：中景侧拍镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，净水器机身带触控操作面板、透明可拆卸原水箱，机身侧面有清晰的容量刻度标识，触控区淡蓝色背光柔和亮起，透明原水箱里盛着半箱清水，台面上同场景摆放黄底英文马克杯、白色陶瓷花盆绿植、迷你棕色置物架、香薰小摆件、马歇尔音响，背景是白色方格窗户与窗外绿植，上方是带书籍和垂吊绿植的黄色置物架，吧台下方是带红色圆形把手的黄色橱柜与童趣卡通涂鸦，温暖自然光从侧方照射，机身金属质感反射柔和环境光，侧光轮廓补光、暖色调低饱和、真实环境漫反射\n比例：3:4\n===分镜结束===\n\n===分镜开始===\n垫图编号：3\n提示词：近景镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，一只手握住净水器透明原水箱的灰色把手，将装满清水的原水箱从机身上取下展示，原水箱里的清水澄澈透亮带细小气泡，背景中净水器触控区的淡蓝色背光清晰可见，台面上同场景摆放透明玻璃杯、白色陶瓷花盆绿植、迷你棕色置物架，背景是白色方格窗户与窗外绿植，上方是带垂吊绿植的黄色置物架，吧台下方是带红色圆形把手的黄色橱柜，暖光从窗户照入，手的肤色和水箱的通透感清晰自然，手持特写浅景深、自然光通透感、细节纹理锐化\n比例：3:4\n===分镜结束===\n\n===分镜开始===\n垫图编号：4\n提示词：近景镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，一只手握着透明玻璃杯的把手，将玻璃杯放在净水器的出水正下方接取直饮水，玻璃杯里接满了澄澈透亮的直饮水，净水器触控区显示300ml的蓝色数字背光亮起，蓝色出水环形灯点亮，台面上同场景摆放白色陶瓷花盆绿植、迷你棕色置物架、香薰小摆件，背景是白色方格窗户与窗外葱郁绿植，上方是带垂吊绿植的黄色置物架，吧台下方是带红色圆形把手的黄色橱柜，温暖柔和的自然光打在水面上有波光反光，互动特写氛围感、柔光打亮水面、生活化写实质感\n比例：3:4\n===分镜结束===\n\n===分镜开始===\n垫图编号：1\n提示词：全景展示镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，作为水吧台的核心家电，周围搭配黄底英文马克杯、多盆绿植、迷你置物架、露营小吊灯、马歇尔音响、香薰摆件，吧台下方是带红色圆形把手的黄色橱柜，侧面有童趣汉堡卡通涂鸦，上方是黄色开放式置物架摆放书籍和垂吊绿植，后方是白色方格窗户，窗外是明亮的自然绿植景色，角落还放着带蓝色骨头抱枕的宠物窝，整体是温馨治愈的出租屋低成本改造水吧台全景，暖白灯带和自然光混合照明，空间通透有生活气息，环境光统一色温、广角空间纵深感、暖系胶片调色\n比例：3:4\n===分镜结束==="
+}

@@ -1,0 +1,13 @@
+{
+  "image_urls": [
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3"
+  ],
+  "key": "f2916c8a-4d6f-45bc-af40-e169845ac05f",
+  "model": "图片4.6",
+  "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：中景镜头，深灰色美的台式净水器稳固放置在原木色水吧台台面上，净水器机身带触控操作面板、透明可拆卸原水箱，触控区亮着淡蓝色背光，出水口中正对下方的透明玻璃杯，杯里盛着澄澈的直饮水，周围摆放黄底英文马克杯、白色陶瓷花盆绿植、迷你棕色置物架、香薰小摆件、马歇尔音响，背景是白色方格窗户，窗外是葱郁的绿植，上方是带书籍和垂吊绿植的黄色置物架，吧台下方是带红色圆形把手的黄色橱柜，橱柜侧面有童趣卡通涂鸦，整体是温暖明亮的出租屋温馨水吧台场景，自然光从窗户照射进来，暖白色灯带补充照明，物体边缘带柔和阴影，低反差柔光、自然环境光感、胶片颗粒质感",
+  "ratio": "3:4"
+}

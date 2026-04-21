@@ -1,0 +1,40 @@
+{
+  "body_image_urls": [
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png",
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png",
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png"
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+  "competitor_image_data": [
+    "http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200824/86ddc99c6acb95d9550159c970997aad/notes_pre_post/1040g3k831q93ps03g0005npsmn5g8b3r7ijrba0!nd_dft_wlteh_jpg_3"
+  ],
+  "final_copywriting": "(标题)：少喝30杯奶茶！就能get能直饮的净水机🥤\n(正文)：\n学生党/租房族想喝放心水\n真的没必要花大价钱装全屋净水啊！\n算过账了，少喝30杯奶茶的预算\n就能搞定日常喝水的需求👇\n\n✅ 如果你们那边自来水水质本身不错\n选超滤款就够用\n不用插电，没乱七八糟的废水\n平时洗菜烧饭用它，还能保留水里的矿物质\n租房装也不用改电路，超省心\n\n✅ 想直接接水就喝的选反渗透款\n过滤精度够细，余氯、铁锈味都能给你滤得干干净净\n接出来的水不用烧直接喝，和买的瓶装水没啥差\n我现在做冰美式、泡果茶全用它\n比天天买水划算太多了\n\n💡 最戳我这种懒人的点是\n自己就能换芯，不用叫师傅上门\n额定净水量有4000L以上，平均下来一天才几毛钱\n换芯成本也低，完全不会有后续养不起的问题\n我直接放在出租屋小水吧台上面\n颜值也搭，平时用着顺手，搬家直接拎走就行\n\n喝进嘴里的东西真的不能凑活\n不用攒很久的钱，也能把喝水品质提上来\n想入手的姐妹可以先码住，慢慢挑~\n(标签)：#租房好物 #净水器推荐 #学生党好物 #省钱攻略 #美的净水器 #低成本提升幸福感 #饮水健康 #出租屋改造 #水吧台布置 #性价比家电",
+  "product_specs_data": [
+    {
+      "doc_analysis": "【产品名称】：美的超滤净水器；美的反渗透净水器\n【核心卖点】：超滤机不插电；保留矿物质；无废水；反渗透机过滤精度0.0001um；可直饮；自主换芯；额定净水量4000L以上\n【目标人群与场景】：水质好地区用户；预算有限用户；追求直饮水用户；家庭净水场景",
+      "file_id": "7629182550464036879",
+      "file_url": "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx",
+      "id": "7629182550464036879",
+      "item_id": ""
+    }
+  ],
+  "proposal_image_urls": [
+    "https://s.coze.cn/t/gKmn9V-Z5c0/"
+  ],
+  "sys_config_dict": {
+    "audience": "goodies_buyer",
+    "audience_cn": "好物买家",
+    "image_model": "jimeng",
+    "image_model_cn": "即梦4.5",
+    "ratio": "3:4",
+    "ratio_cn": "小红书",
+    "text_model": "doubao",
+    "text_model_cn": "豆包",
+    "tone": "bestie",
+    "tone_cn": "闺蜜种草"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "FLOW:workflow:called_plugin_ids": "{\"data\":\"[7431157518577139752]\",\"to_module_unit\":[]}",
+  "db_ai_tool_tasks": [
+    {
+      "account_id": "1291792078@qq.com",
+      "bstudio_create_time": "2026-04-20 08:24:49 +0800 CST",
+      "created_at": "1776644689",
+      "id": "7630624786846253083",
+      "input_params": "{\"collection_type\": \"单条链接\", \"keyword\": \"https://www.xiaohongshu.com/explore/69450ad3000000001e02ca35?xsec_token=ABnlQMFMAl4_42J06MfbNF9wtJfFPG7zy_VRtWQ11Gpl4=&xsec_source=pc_search&source=web_search_result_notes\"}",
+      "is_saved": "true",
+      "last_active_at": "1776644689",
+      "parsed_file_url": "",
+      "primary_payload": "[{\"item_id\": \"mat_5ef752a9edce\", \"content\": \"用一张小木桌，打造一个低成本水吧台，已经变成了我在家里最喜欢的角落。\\n\\t\\n📚 书架上墙，空间利用MAX：我利用了墙面空间，搞了个书架，不仅能放书，还能放些小摆件，瞬间文艺范儿就上来了。\\n\\t\\n🌿 绿植加持，自然气息满满：窗台上摆了几盆绿植，不仅好看，还能净化空气。\\n\\t\\n💡 露营灯一挂，氛围感爆棚：我在水吧台上方挂了个露营灯，晚上一开，那氛围就来了。\\n\\t\\n💧 美的冰魔方净水器：这台净水器，不仅颜值高，而且超级实用。水质纯净，冷水热水一键搞定，按键出冰，冰块透亮融化慢，夏天的时候我经常用来做饮品😋。\\n\\t\\n🎶 蓝牙音响：当然，音乐是少不了的。一个小音响，连上蓝牙，随时都能来点BGM，让生活更有节奏感。\\n\\t\\n🌟 香薰壁炉，温馨感UP：点上香薰，放在香薰壁炉里，整个空间都充满温馨的味道。\\n整个水吧台的布置，成本不高💰，但我真的很喜欢，小空间也能有大幸福。\\n\\t\\n#我的水吧台[话题]##低成本改造[话题]##美的冰魔方[话题]##美的冰魔方净水器[话题]##生活小确幸[话题]##家居装饰[话题]##小红书家居[话题]##温馨角落[话题]##出租屋改造[话题]#\", \"tags\": [\"我的水吧台\", \"低成本改造\", \"美的冰魔方\", \"美的冰魔方净水器\", \"生活小确幸\", \"家居装饰\", \"小红书家居\", \"温馨角落\", \"出租屋改造\"]}]",
+      "project_id": "1776644485129",
+      "result_count": "",
+      "result_data": "{\"text\": \"搜索到 1 篇。\", \"file_count\": 1, \"list\": [{\"item_id\": \"mat_5ef752a9edce\", \"note_id\": \"69450ad3000000001e02ca35\", \"model_type\": \"image\", \"title\": \"低成本打造专属水吧台\", \"url\": \"https://www.xiaohongshu.com/explore/69450ad3000000001e02ca35?xsec_token=ABnlQMFMAl4_42J06MfbNF9wtJfFPG7zy_VRtWQ11Gpl4=&xsec_source=pc_search&source=web_search_result_notes\", \"image_list\": [\"http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3\", \"http://sns-webpic-qc.xhscdn.com/202604200824/d20dd6ed17c5f36164afebe4fbd5e73c/notes_pre_post/1040g3k831q93pron00005npsmn5g8b3r0jfkgo0!nd_dft_wlteh_jpg_3\", \"http://sns-webpic-qc.xhscdn.com/202604200824/86ddc99c6acb95d9550159c970997aad/notes_pre_post/1040g3k831q93ps03g0005npsmn5g8b3r7ijrba0!nd_dft_wlteh_jpg_3\", \"http://sns-webpic-qc.xhscdn.com/202604200824/fa3b631a504b9d69d597b1574ee6e51e/notes_pre_post/1040g3k831q93prsgno705npsmn5g8b3r4epl2q8!nd_dft_wlteh_jpg_3\"], \"video_url\": \"\", \"author\": \"煎饼\", \"metrics\": {\"likes\": \"1774\", \"comments\": \"14\", \"shares\": \"40\"}, \"is_deep_collected\": true}]}",
+      "run_status": "success",
+      "secondary_payload": "[{\"item_id\": \"mat_5ef752a9edce\", \"comments\": [{\"content\": \"你好，桌面和黄色的橱子有链接吗\", \"likes\": \"2\", \"user_name\": \"孙头头\"}, {\"content\": \"水质干净吗\", \"likes\": \"0\", \"user_name\": \"黑眼圈\"}, {\"content\": \"这个牌子我也在用\", \"likes\": \"0\", \"user_name\": \"萌宠动物园\"}, {\"content\": \"墙上的动漫画是画上去的吗？好好看\", \"likes\": \"0\", \"user_name\": \"潇潇在杭州\"}, {\"content\": \"窗景好好看\", \"likes\": \"0\", \"user_name\": \"momo\"}, {\"content\": \"吧台好看\", \"likes\": \"0\", \"user_name\": \"momo\"}, {\"content\": \"怎么把木板架起来呀\", \"likes\": \"0\", \"user_name\": \"郝兔兔🐰🐰\"}, {\"content\": \"售后保修多久啊？\", \"likes\": \"0\", \"user_name\": \"陈大大\"}, {\"content\": \"请问黄色抽屉柜是定制的吗？好可爱呀\", \"likes\": \"0\", \"user_name\": \"momo\"}, {\"content\": \"你好 黄色柜子和桌板有链接嘛\", \"likes\": \"0\", \"user_name\": \"抓你去煲汤\"}]}]",
+      "target_key": "ai_competitor",
+      "task_id": "07d012ec-756c-4c64-bf61-972489dfb27f",
+      "task_mode": "batch",
+      "task_name": "SOP采集-https://www.xia...",
+      "tool_type": "采集",
+      "ui_layout_key": "layout_form",
+      "uuid": "yhlVJcEd+XGtQzR3ZAS56YHcFZgMv47K3mecYtJp0qSJp7GBak1kRd/RsJiQcdxmkcvGaGyt"
+    }
+  ],
+  "db_sop_tasks": [
+    {
+      "account_id": "1291792078@qq.com",
+      "bstudio_create_time": "2026-04-20 08:21:25 +0800 CST",
+      "created_at": 1776644485,
+      "draft_materials": "{\"spec\": {\"status\": \"green\", \"count\": 1, \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx\", \"file_name\": \"美的净水器.docx\", \"list\": [{\"bytes\": 98198, \"created_at\": 1776308386, \"file_id\": \"7629182550464036879\", \"file_name\": \"美的净水器.docx\", \"id\": \"7629186305636859944\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx\"}], \"is_new_upload\": 0, \"tool_config\": {}}, \"ai_competitor\": {\"status\": \"green\", \"count\": 1, \"url\": \"https://www.xiaohongshu.com/explore/69450ad3000000001e02ca35?xsec_token=ABnlQMFMAl4_42J06MfbNF9wtJfFPG7zy_VRtWQ11Gpl4=&xsec_source=pc_search&source=web_search_result_notes\", \"file_name\": \"低成本打造专属水吧台\", \"list\": [{\"id\": \"mat_5ef752a9edce\", \"file_id\": \"7630624786846253083\", \"file_name\": \"低成本打造专属水吧台\", \"url\": \"https://www.xiaohongshu.com/explore/69450ad3000000001e02ca35?xsec_token=ABnlQMFMAl4_42J06MfbNF9wtJfFPG7zy_VRtWQ11Gpl4=&xsec_source=pc_search&source=web_search_result_notes\", \"bytes\": 1024, \"created_at\": 1776644695, \"item_id\": \"mat_5ef752a9edce\", \"title\": \"低成本打造专属水吧台\", \"cover\": \"http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3\", \"author\": \"煎饼\", \"metrics\": {\"likes\": \"1774\", \"comments\": \"14\", \"shares\": \"40\"}, \"is_deep_collected\": true}]}, \"body_images\": {\"status\": \"green\", \"count\": 4, \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png\", \"file_name\": \"下载.png\", \"list\": [{\"bytes\": 1521693, \"created_at\": 1776179606, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载.png\", \"id\": \"7628632968663449626\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png\"}, {\"bytes\": 1424053, \"created_at\": 1776179610, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (1).png\", \"id\": \"7628632904235073577\", \"url\": \"https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png\"}, {\"bytes\": 1411925, \"created_at\": 1776179617, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (2).png\", \"id\": \"7628633000435433506\", \"url\": \"https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png\"}, {\"bytes\": 1521724, \"created_at\": 1776179617, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (3).png\", \"id\": \"7628632946911969320\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png\"}], \"is_new_upload\": 0, \"tool_config\": {}}}",
+      "draft_node_configs": "{\"node_0_start\": {}, \"node_1_copywriting\": {\"audience\": \"goodies_buyer\", \"tone\": \"bestie\", \"text_model\": \"doubao\"}, \"node_2_generation\": {\"ratio\": \"3:4\", \"image_model\": \"jimeng\"}, \"node_3_end\": {}}",
+      "id": "7630623060315635764",
+      "node_logs": "{\"node_0_start\": \"[08:24:45] ✅ 已提交任务，启动物料解析与文案策略...\", \"node_1_copywriting\": \"\", \"node_2_generation\": \"\", \"node_3_end\": \"\"}",
+      "node_proposals": "",
+      "node_results": "{\"node_0_start\": \"\", \"node_1_copywriting\": \"\", \"node_2_generation\": \"\", \"node_3_end\": \"\"}",
+      "node_statuses": "{\"node_0_start\": \"running\", \"node_1_copywriting\": \"running\", \"node_2_generation\": \"pending\", \"node_3_end\": \"pending\"}",
+      "project_id": 1776644485129,
+      "task_id": "07d012ec-756c-4c64-bf61-972489dfb27f",
+      "task_name": "Test Results-0420-1",
+      "task_status": "running",
+      "uuid": "IqCfmraAgNtw+eBtQwyPO9pxXf3EMu+i7KDIoQRoEjilBUTy+xMVpetgA7D3oUHToeZf"
+    }
+  ],
+  "db_sop_templates": [
+    {
+      "bstudio_create_time": "2026-02-23 20:46:22 +0800 CST",
+      "id": "7610037143024599083",
+      "material_config": "[\n  {\n    \"key\": \"spec\", \n    \"name\": \"产品规格书\", \n    \"type\": \"file\", \n    \"icon\": \"file_document\"\n},\n  {\n     \"key\": \"ai_competitor\", \n     \"name\": \"竞品笔记\", \n     \"type\": \"ai_tool_collect\",\n     \"icon\": \"robot\"\n},\n  {\n    \"key\": \"body_images\", \n    \"name\": \"实拍商品\", \n    \"type\": \"image_multiple\", \n    \"icon\": \"images\"\n  }\n]",
+      "node_config": "{\n  \"nodes\": [\n    {\n      \"key\": \"node_0_start\",\n      \"label\": \"开始\",\n      \"dropdowns\": []\n    },\n    {\n      \"key\": \"node_1_copywriting\",\n      \"label\": \"文案策略\",\n      \"dropdowns\": [\n        {\n          \"key\": \"audience\",\n          \"label\": \"目标受众\",\n          \"options\": [\n            {\"label\": \"好物买家\", \"value\": \"goodies_buyer\"},\n            {\"label\": \"攻略粉丝\", \"value\": \"guide_fans\"},\n            {\"label\": \"跟风达人\", \"value\": \"trend_follower\"},\n            {\"label\": \"新手小白\", \"value\": \"newbie\"},\n            {\"label\": \"日常浏览\", \"value\": \"daily_browser\"},\n            {\"label\": \"自定义\", \"value\": \"custom\"}\n          ]\n        },\n        {\n          \"key\": \"tone\",\n          \"label\": \"文案语气\",\n          \"options\": [\n            {\"label\": \"闺蜜种草\", \"value\": \"bestie\"},\n            {\"label\": \"专业评测\", \"value\": \"expert\"},\n            {\"label\": \"趣味脑洞\", \"value\": \"funny\"},\n            {\"label\": \"温情治愈\", \"value\": \"warm\"},\n            {\"label\": \"亲子温馨\", \"value\": \"family\"},\n            {\"label\": \"自定义\", \"value\": \"custom\"}\n          ]\n        },\n        {\n          \"key\": \"text_model\",\n          \"label\": \"大语言模型\",\n          \"options\": [\n            {\"label\": \"豆包\", \"value\": \"doubao\"},\n            {\"label\": \"DeepSeek\", \"value\": \"deepseek\"}\n          ]\n        }\n      ]\n    },\n    {\n      \"key\": \"node_2_generation\",\n      \"label\": \"出图设置\",\n      \"dropdowns\": [\n        {\n          \"key\": \"ratio\",\n          \"label\": \"出图比例\",\n          \"options\": [\n            {\"label\": \"小红书\", \"value\": \"3:4\"}\n          ]\n        },\n        {\n          \"key\": \"image_model\",\n          \"label\": \"生图引擎\",\n          \"options\": [\n            {\"label\": \"NanoBanana\", \"value\": \"nano\"},\n            {\"label\": \"即梦4.5\", \"value\": \"jimeng\"},\n            {\"label\": \"Seedream4.5\", \"value\": \"Seedream\"}\n          ]\n        }\n      ]\n    },\n    {\n      \"key\": \"node_3_end\",\n      \"label\": \"结束\",\n      \"dropdowns\": []\n    }\n  ]\n}",
+      "project_name_tpl": "爆款图文模板",
+      "sop_key": "article_v1",
+      "uuid": "yhlVJcEd+XGtQzR3ZAS56YHcFZgMv47K3mecYtJp0qSJp7GBak1kRd/RsJiQcdxmkcvGaGyt"
+    }
+  ],
+  "db_tool_history": [
+    {
+      "account_id": "1291792078@qq.com",
+      "bstudio_create_time": "2026-04-16 11:00:40 +0800 CST",
+      "created_at": "1776308440",
+      "id": "7629182550464036879",
+      "parsed_file_url": "{\"doc_analysis\": \"【产品名称】：美的超滤净水器；美的反渗透净水器\\n【核心卖点】：超滤机不插电；保留矿物质；无废水；反渗透机过滤精度0.0001um；可直饮；自主换芯；额定净水量4000L以上\\n【目标人群与场景】：水质好地区用户；预算有限用户；追求直饮水用户；家庭净水场景\"}",
+      "project_id": "1776308371109",
+      "result_data": "{\"text\": \"美的净水器.docx\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx\", \"file_type\": \"upload\", \"file_count\": 1, \"list\": [{\"bytes\": 98198, \"created_at\": 1776308386, \"file_id\": \"7629182550464036879\", \"file_name\": \"美的净水器.docx\", \"id\": \"7629186305636859944\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7629186305636859944/%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx?x-expires=1776913226&x-signature=HzATIqndfeIqrCQaPyvICBAi3V8%3D&x-wf-file_name=%E7%BE%8E%E7%9A%84%E5%87%80%E6%B0%B4%E5%99%A8.docx\"}]}",
+      "status": "success",
+      "target_key": "spec",
+      "task_id": "5e2464d7-a286-4556-9507-94cda9aef8f3",
+      "tool_type": "upload",
+      "uuid": "yhlVJcEd+XGtQzR3ZAS56YHcFZgMv47K3mecYtJp0qSJp7GBak1kRd/RsJiQcdxmkcvGaGyt"
+    },
+    {
+      "account_id": "1291792078@qq.com",
+      "bstudio_create_time": "2026-04-14 23:13:50 +0800 CST",
+      "created_at": "1776179630",
+      "id": "7628630148740464674",
+      "parsed_file_url": "{\"images_analysis\": \"【视觉主体】：美的深灰色台式净饮机，带触控触控屏显、多档位出水控温功能，搭配透明储水箱和接水玻璃杯\\n【场景背景】：放置在带有大理石纹理的厨房台面上，旁侧有装饰餐盘和墙面开关\\n【光影色彩】：柔和室内顶光，整体主色调为深灰+透明玻璃质感的清透色调，搭配蓝色触控指示灯点缀\\n【视觉主体】：深灰色金属质感美的台式净饮机，带触控操作面板和透明接水水箱，搭配透明玻璃杯\\n【场景背景】：厨房大理石台面，搭配木质置物架、花纹餐盘和红色喜字装饰\\n【光影色彩】：柔和室内自然光，主色调为深灰、白色搭配少量彩色装饰点缀\\n【视觉主体】：深灰色美的台式净饮机，带触控显示屏与多档位出水模式，搭配接水的透明玻璃杯\\n【场景背景】：厨房大理石台面，搭配木质吊柜与装饰瓷盘\\n【光影色彩】：室内柔和暖光，整体以深灰、白色为主色调，点缀蓝色触控灯光与彩色装饰盘\\n【视觉主体】：美的深灰色智能即热饮水机，搭配透明带灰黑把手的接水水箱，显示屏显示300ml出水容量，手持透明玻璃杯\\n【场景背景】：厨房大理石台面，搭配同款透明玻璃杯，柜体带有红色喜字装饰\\n【光影色彩】：柔和室内暖光，整体以深灰、透明清透色调为主，点缀少量木色与红色装饰\"}",
+      "project_id": "1775704639814",
+      "result_data": "{\"text\": \"下载.png\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png\", \"file_type\": \"upload\", \"file_count\": 4, \"list\": [{\"bytes\": 1521693, \"created_at\": 1776179606, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载.png\", \"id\": \"7628632968663449626\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632968663449626/%E4%B8%8B%E8%BD%BD.png?x-expires=1776784424&x-signature=B%2BBGIyxlBYTC%2FxhM4bkU8wgU2XY%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD.png\"}, {\"bytes\": 1424053, \"created_at\": 1776179610, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (1).png\", \"id\": \"7628632904235073577\", \"url\": \"https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632904235073577/%E4%B8%8B%E8%BD%BD%20%281%29.png?x-expires=1776784424&x-signature=2M%2FPsyYNJdPdcAQ2ZCWj8uNCxXw%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%281%29.png\"}, {\"bytes\": 1411925, \"created_at\": 1776179617, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (2).png\", \"id\": \"7628633000435433506\", \"url\": \"https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628633000435433506/%E4%B8%8B%E8%BD%BD%20%282%29.png?x-expires=1776784424&x-signature=FIE8VBZV5IgEQBUuZhgSHOFVJ4w%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%282%29.png\"}, {\"bytes\": 1521724, \"created_at\": 1776179617, \"file_id\": \"7628630148740464674\", \"file_name\": \"下载 (3).png\", \"id\": \"7628632946911969320\", \"url\": \"https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/png/7628632946911969320/%E4%B8%8B%E8%BD%BD%20%283%29.png?x-expires=1776784424&x-signature=SQO57yHOyW5KH5kbwSwuIfAzVUU%3D&x-wf-file_name=%E4%B8%8B%E8%BD%BD+%283%29.png\"}]}",
+      "status": "success",
+      "target_key": "body_images",
+      "task_id": "9acf61b5-279b-4941-b62f-353bf4c8d9b4",
+      "tool_type": "upload",
+      "uuid": "yhlVJcEd+XGtQzR3ZAS56YHcFZgMv47K3mecYtJp0qSJp7GBak1kRd/RsJiQcdxmkcvGaGyt"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "base_structure_image": "https://oss.miheai.com/temp/f9aa292c-4362-4736-82ee-ef0b610addc4.png",
+  "poster_title": "少喝30杯奶茶！就能get能直饮的净水机",
+  "ref_style_image": "http://sns-webpic-qc.xhscdn.com/202604200824/aed80453785b9169c882049bd7a2cc6f/notes_pre_post/1040g3k831q93prjpga6g5npsmn5g8b3rvks2v1o!nd_dft_wlteh_jpg_3"
+}
