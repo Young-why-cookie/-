@@ -1,0 +1,22 @@
+{
+  "comp_inner_images": [
+    "http://sns-webpic-qc.xhscdn.com/202604200956/8c8ca4f58882d0a3006c27f67b9e2f6a/1040g008314f9vn4flq0g41siecngpp1iunp86so!nd_dft_wlteh_jpg_3"
+  ],
+  "copy_full_output": "### 提案一：闺蜜种草-懒人救星\n- 🎯 细分受众：早八赶时间怕麻烦的淡妆党\n- 🔥 爆款标题：早八人速进！这支口红涂完直接出门😎\n- 📝 核心思路：戳赶时间痛点，突出上色均匀伪素颜适配度高\n- 🖼️ 画面构图：手握着口红怼原相机拍无滤镜上嘴效果\n\n### 提案二：闺蜜种草-黄皮避坑\n- 🎯 细分受众：黄皮踩雷无数的挑色困难户\n- 🔥 爆款标题：黄皮姐妹闭眼冲！这几个色号巨显白🥰\n- 📝 核心思路：戳黄皮选色痛点，实测不同色号的显白效果\n- 🖼️ 画面构图：黄皮手背试色对比，背景放黑粉渐变包装盒\n\n### 提案三：闺蜜种草-干唇福音\n- 🎯 细分受众：秋冬唇部卡纹起皮的干唇星人\n- 🔥 爆款标题：干唇狂喜！这支润到不用涂唇膏💧\n- 📝 核心思路：戳干唇卡纹痛点，突出膏体滋润不拔干\n- 🖼️ 画面构图：近拍膏体质感，搭配涂完的嘟嘟唇特写\n\n### 提案四：闺蜜种草-持妆测试\n- 🎯 细分受众：爱脱妆补妆嫌麻烦的约会党\n- 🔥 爆款标题：约会持妆6小时？这支口红真的不沾杯！\n- 📝 核心思路：戳脱妆尴尬痛点，实测喝水吃饭不脱妆效果\n- 🖼️ 画面构图：拍水杯沾杯测试，对比前后唇色差异\n\n### 提案五：闺蜜种草-颜控狂喜\n- 🎯 细分受众：喜欢高颜值彩妆的收藏党\n- 🔥 爆款标题：这个蝴蝶结口红我真的舍不得用🎀\n- 📝 核心思路：戳颜值党喜好，突出包装精致送人自留都合适\n- 🖼️ 画面构图：平铺蝴蝶结口红+黑粉包装盒，配木质桌面背景",
+  "cover_ref_image": "http://sns-webpic-qc.xhscdn.com/202604200956/dd1168a3441770ce9399295ff58bd3d3/1040g008314f9vn4flq0041siecngpp1iodv9r98!nd_dft_wlteh_jpg_3",
+  "doc_cache_payload": "",
+  "doc_result_item_list": [
+    {
+      "db_id": "7630650386134679587",
+      "db_table": "tool_history",
+      "doc_full_analysis": "【产品名称】：口红\n【核心卖点】：膏体平滑细腻有光泽；包装正规标识清晰；上色均匀滋润；持久不易脱妆\n【目标人群与场景】：美妆爱好者；日常化妆场景；唇部彩妆需求人群",
+      "item_id": "7630653942908682255",
+      "name": "产品规格书.docx",
+      "url": "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7630653942908682255/%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.docx?x-expires=1777254954&x-signature=1OALt8AwTBM6%2BgJ2CrWdLkwIbvM%3D&x-wf-file_name=%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.docx"
+    }
+  ],
+  "real_shots": [
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653339625095211/1.jpg?x-expires=1777254954&x-signature=7eVVypR908292qqUg5KvW%2BVSKP8%3D&x-wf-file_name=1.jpg"
+  ],
+  "sys_config_dict": "3:4"
+}

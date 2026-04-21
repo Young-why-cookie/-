@@ -1,0 +1,49 @@
+{
+  "body_image_urls": [
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653345140572223/3.jpg?x-expires=1777254954&x-signature=Jid7R7eUTE%2BYtxY1gV4gVvTiZu0%3D&x-wf-file_name=3.jpg",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653206179790900/5.jpg?x-expires=1777254954&x-signature=1y%2BtYZLWL7C1mSZXMYcGQH21sK4%3D&x-wf-file_name=5.jpg",
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653342443700239/4.jpg?x-expires=1777254954&x-signature=sCYGhsiZy0eKk38lMWfyXhWKLL0%3D&x-wf-file_name=4.jpg",
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653339625095211/1.jpg?x-expires=1777254954&x-signature=7eVVypR908292qqUg5KvW%2BVSKP8%3D&x-wf-file_name=1.jpg",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653311007637554/2.jpg?x-expires=1777254954&x-signature=gZJhJqnwLAGA%2Fu8mDd4xyF010Co%3D&x-wf-file_name=2.jpg"
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200956/dd1168a3441770ce9399295ff58bd3d3/1040g008314f9vn4flq0041siecngpp1iodv9r98!nd_dft_wlteh_jpg_3",
+  "competitor_image_data": [
+    "http://sns-webpic-qc.xhscdn.com/202604200956/775e6f5dae26f0d581498b6aa92b6113/1040g008314f9vn4flq3041siecngpp1i587jdb0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/39a40b892b8ebd0d3815d0ce53357625/1040g008314f9vn4flq4041siecngpp1ig93gt5g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/0b0d6a3e75f08adb3ffd5db30be82965/1040g008314f9vn4flq2041siecngpp1i1o4614o!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/dd1168a3441770ce9399295ff58bd3d3/1040g008314f9vn4flq0041siecngpp1iodv9r98!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/76ba003e3ca44d86db1fda1c94425cd2/1040g008314f9vn4flq2g41siecngpp1ii658458!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/470148b521e880645b51ffc564cf4f00/1040g008314f9vn4flq1g41siecngpp1iqovq250!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/8c8ca4f58882d0a3006c27f67b9e2f6a/1040g008314f9vn4flq0g41siecngpp1iunp86so!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/9ca2298f4b93ff6549fdf3500927fa51/1040g008314f9vn4flq3g41siecngpp1i6e79veo!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/7864af43ac869582ca5512cb20b79ebf/1040g008314f9vn4flq4g41siecngpp1iv7joi5g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/0454533d8d9112c8544111aff644b2bd/1040g008314f9vn4flq5g41siecngpp1i88l4448!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/3ac8be1d6622ffb5e56b093772241671/1040g008314f9vn4flq1041siecngpp1icpqtlb8!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/ee53859eb75985a12e618bcffe852be5/1040g008314f9vn4flq5041siecngpp1i05fkmmg!nd_dft_wlteh_jpg_3"
+  ],
+  "final_copywriting": "(标题)：黄皮姐妹闭眼冲！这几个色号巨显白🥰\n(正文)：有没有姐妹跟我一样\n每次买口红跟风冲网红色\n上嘴要么荧光到像偷穿了小孩的鞋\n要么暗沉没气色 黄了好几个度\n真的会谢！钱打水漂就算了\n出门被问是不是没休息好我真的尴尬到抠脚\n踩了无数雷我终于挖到宝了！\n最近新入的这几支口红\n我一个黄二白原相机无滤镜试给你们看\n真的巨显白！\n💄首先它上嘴真的很润\n膏体滑溜溜的 完全不会卡唇纹\n我这种冬天不涂润唇膏就掉皮的人\n直接涂都很舒服 匀匀的一抹就上色\n就像给嘴唇敷了层水膜 还带点自然的光泽感\n💄持妆力也很在线\n昨天喝了三杯奶茶吃了顿火锅\n底色都还牢牢扒在嘴上\n不用动不动就掏出来补涂太省心了\n包装也很有质感 拿出来补妆都觉得超有面\n给你们说我最爱的两个色号\n🍧#42爆汁西柚色 软乎乎的元气感拉满\n早八伪素颜涂完直接出门 衬得人整张脸都亮了\n🍧#45糖霜番茄红 黄皮涂直接抬三个度的气色\n约会通勤都合适 完全不挑妆容\n对了都是我原相机实拍的 你们看我手背试色就知道\n真的没加滤镜！\n对了你们平时买口红最容易踩什么雷？\n评论区告诉我呀！\n(标签)：#黄皮口红 #显白口红 #口红试色 #无滤镜口红试色 #日常口红 #黄皮最爱的口红 #口红分享",
+  "product_specs_data": [
+    {
+      "doc_analysis": "【产品名称】：口红\n【核心卖点】：膏体平滑细腻有光泽；包装正规标识清晰；上色均匀滋润；持久不易脱妆\n【目标人群与场景】：美妆爱好者；日常化妆场景；唇部彩妆需求人群",
+      "file_id": "7630650386134679587",
+      "file_url": "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/vnd.openxmlformats-officedocument.wordprocessingml.document/7630653942908682255/%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.docx?x-expires=1777254954&x-signature=1OALt8AwTBM6%2BgJ2CrWdLkwIbvM%3D&x-wf-file_name=%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.docx",
+      "id": "7630650386134679587",
+      "item_id": ""
+    }
+  ],
+  "proposal_image_urls": [
+    "https://s.coze.cn/t/OT2SDQyLUHo/"
+  ],
+  "sys_config_dict": {
+    "audience": "神仙姐姐",
+    "audience_cn": "神仙姐姐",
+    "image_model": "jimeng",
+    "image_model_cn": "即梦4.5",
+    "ratio": "3:4",
+    "ratio_cn": "小红书",
+    "text_model": "doubao",
+    "text_model_cn": "豆包",
+    "tone": "bestie",
+    "tone_cn": "闺蜜种草"
+  }
+}

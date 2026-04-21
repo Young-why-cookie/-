@@ -1,0 +1,13 @@
+{
+  "image_urls": [
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653206179790900/5.jpg?x-expires=1777254954&x-signature=1y%2BtYZLWL7C1mSZXMYcGQH21sK4%3D&x-wf-file_name=5.jpg",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/dd1168a3441770ce9399295ff58bd3d3/1040g008314f9vn4flq0041siecngpp1iodv9r98!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/775e6f5dae26f0d581498b6aa92b6113/1040g008314f9vn4flq3041siecngpp1i587jdb0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/39a40b892b8ebd0d3815d0ce53357625/1040g008314f9vn4flq4041siecngpp1ig93gt5g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/0b0d6a3e75f08adb3ffd5db30be82965/1040g008314f9vn4flq2041siecngpp1i1o4614o!nd_dft_wlteh_jpg_3"
+  ],
+  "key": "f2916c8a-4d6f-45bc-af40-e169845ac05f",
+  "model": "图片4.6",
+  "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：中景特写，黄二白肤色的手拿着两支SENSORY PARTY唇釉，手指握住唇釉瓶身中部，其中一支盖子打开，透明刷头沾着糖霜番茄红色的釉体，膏体水润透亮，唇釉瓶身的渐变黑质感、粉色蝴蝶结印刷清晰，背景为浅灰色哑光水泥质感台面，产品在台面上投射自然软阴影，自然光从左上方打亮瓶身的通透光泽，低反差柔光，自然环境漫反射，手持特写质感",
+  "ratio": "3:4"
+}

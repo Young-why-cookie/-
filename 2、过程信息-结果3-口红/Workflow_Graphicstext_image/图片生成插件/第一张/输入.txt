@@ -1,0 +1,13 @@
+{
+  "image_urls": [
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630653345140572223/3.jpg?x-expires=1777254954&x-signature=Jid7R7eUTE%2BYtxY1gV4gVvTiZu0%3D&x-wf-file_name=3.jpg",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/dd1168a3441770ce9399295ff58bd3d3/1040g008314f9vn4flq0041siecngpp1iodv9r98!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/775e6f5dae26f0d581498b6aa92b6113/1040g008314f9vn4flq3041siecngpp1i587jdb0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/39a40b892b8ebd0d3815d0ce53357625/1040g008314f9vn4flq4041siecngpp1ig93gt5g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200956/0b0d6a3e75f08adb3ffd5db30be82965/1040g008314f9vn4flq2041siecngpp1i1o4614o!nd_dft_wlteh_jpg_3"
+  ],
+  "key": "f2916c8a-4d6f-45bc-af40-e169845ac05f",
+  "model": "图片4.6",
+  "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：上下分镜特写构图，黄二白肤色的女性嘴唇，正在用SENSORY PARTY渐变黑透明瓶身、带粉色蝴蝶结标识的唇釉涂抹下嘴唇，唇釉刷头的橘调西柚色膏体完全贴合唇部，上半部分是涂抹中的状态，下半部分是涂完的#42爆汁西柚色果冻唇，充盈饱满带有透亮水光感，无滤镜原生肤质，背景为浅灰色哑光水泥质感台面，主体放置在画面中，柔和侧光打亮唇部纹理，低反差柔光，边缘轮廓光，微距浅景深",
+  "ratio": "3:4"
+}
