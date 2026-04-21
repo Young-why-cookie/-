@@ -1,0 +1,5 @@
+{
+  "base_structure_image": "https://oss.miheai.com/temp/8e14994e-1115-4bb2-aeac-e01892da9a94.png",
+  "poster_title": "蛋壳光涂料硬核评测！8项参数直接扒底",
+  "ref_style_image": "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+}

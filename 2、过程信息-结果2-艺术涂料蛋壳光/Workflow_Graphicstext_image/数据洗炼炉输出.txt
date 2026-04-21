@@ -1,0 +1,187 @@
+{
+  "body_image_urls": [
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643524509450303/_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=ErWrsCAL6S4RalI65%2B3qMQIOm1s%3D&x-wf-file_name=_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643455140249642/_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=OOIF6y1OZkc3QDDligjuqhYbdK8%3D&x-wf-file_name=_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643534852309002/_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=se1JbSBEXmfLGdZpq4lI39JJVwc%3D&x-wf-file_name=_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643505580572715/_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=uyTC%2F2segU3eUK%2B8leVLiJDFFFA%3D&x-wf-file_name=_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643432696201226/_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=fHgt8jP16r8ca4typwlvk5bmd4U%3D&x-wf-file_name=_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+  ],
+  "body_images_data": [
+    {
+      "file_id": "7630639307702861859",
+      "file_name": "_1_郑州品质装修丨江苏周工_来自小红书网页版.jpg",
+      "id": "7630643455140249642",
+      "item_id": "",
+      "url": "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643455140249642/_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=OOIF6y1OZkc3QDDligjuqhYbdK8%3D&x-wf-file_name=_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+    },
+    {
+      "file_id": "7630639307702861859",
+      "file_name": "_2_郑州品质装修丨江苏周工_来自小红书网页版.jpg",
+      "id": "7630643505580572715",
+      "item_id": "",
+      "url": "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643505580572715/_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=uyTC%2F2segU3eUK%2B8leVLiJDFFFA%3D&x-wf-file_name=_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+    },
+    {
+      "file_id": "7630639307702861859",
+      "file_name": "_3_郑州品质装修丨江苏周工_来自小红书网页版.jpg",
+      "id": "7630643432696201226",
+      "item_id": "",
+      "url": "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643432696201226/_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=fHgt8jP16r8ca4typwlvk5bmd4U%3D&x-wf-file_name=_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+    },
+    {
+      "file_id": "7630639307702861859",
+      "file_name": "_4_郑州品质装修丨江苏周工_来自小红书网页版.jpg",
+      "id": "7630643524509450303",
+      "item_id": "",
+      "url": "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643524509450303/_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=ErWrsCAL6S4RalI65%2B3qMQIOm1s%3D&x-wf-file_name=_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+    },
+    {
+      "file_id": "7630639307702861859",
+      "file_name": "_5_郑州品质装修丨江苏周工_来自小红书网页版.jpg",
+      "id": "7630643534852309002",
+      "item_id": "",
+      "url": "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643534852309002/_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=se1JbSBEXmfLGdZpq4lI39JJVwc%3D&x-wf-file_name=_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+    }
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+  "competitor_image_data": [
+    {
+      "file_id": "",
+      "id": "7630642263689052187",
+      "image_urls": [
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/6d0b5a3a9fd4e286852fdca4121ed497/notes_pre_post/1040g3k831mhq2etc4uc04bkpprmvvd58r1v549g!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/13b16013c9cbb67cd624f2e0b87d798e/notes_pre_post/1040g3k831mhq2etc4ucg4bkpprmvvd587fkrp90!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/916d7f00b5b43fb3fab07693b523b142/notes_pre_post/1040g3k831mhq2etc4uag4bkpprmvvd58c3a2j2g!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/cb69a1c87935845d24b569fd90ce2d79/notes_pre_post/1040g3k831mhq2etc4udg4bkpprmvvd581kp0fo0!nd_dft_wlteh_jpg_3"
+      ],
+      "images_analysis": "【视觉主体】：白色欧式石膏线护墙板，带有规整的矩形框造型\n【场景背景】：室内未完工的家装墙面，地面带有带包装的板材\n【光影色彩】：柔和室内顶光，整体为米白色调\n【视觉主体】：带有立体线条造型的奶白色哑光护墙板墙面\n【场景背景】：无额外衬托道具，仅展示护墙板局部细节\n【光影色彩】：柔和自然侧光，整体为低饱和度奶白色调",
+      "item_id": "mat_9f70355fadb8"
+    }
+  ],
+  "competitor_image_urls": [
+    "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/6d0b5a3a9fd4e286852fdca4121ed497/notes_pre_post/1040g3k831mhq2etc4uc04bkpprmvvd58r1v549g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/13b16013c9cbb67cd624f2e0b87d798e/notes_pre_post/1040g3k831mhq2etc4ucg4bkpprmvvd587fkrp90!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/916d7f00b5b43fb3fab07693b523b142/notes_pre_post/1040g3k831mhq2etc4uag4bkpprmvvd58c3a2j2g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/cb69a1c87935845d24b569fd90ce2d79/notes_pre_post/1040g3k831mhq2etc4udg4bkpprmvvd581kp0fo0!nd_dft_wlteh_jpg_3"
+  ],
+  "competitor_text_data": [
+    {
+      "comments": [
+        {
+          "content": "姐妹，求哪家品牌哪个型号乳胶漆[飞吻R][飞吻R][飞吻R]",
+          "likes": "3",
+          "user_name": "甜甜新"
+        },
+        {
+          "content": "你这刷的好，没加水才有这个效果",
+          "likes": "5",
+          "user_name": "Lemon"
+        },
+        {
+          "content": "漂亮",
+          "likes": "0",
+          "user_name": "小红薯6270E80E"
+        },
+        {
+          "content": "请问是立邦大师吗？",
+          "likes": "0",
+          "user_name": "Charlene肥肥"
+        },
+        {
+          "content": "宝宝 那个线条是刷好在弄墙上 还是先上墙在一起刷",
+          "likes": "0",
+          "user_name": "🐦"
+        },
+        {
+          "content": "墙面和顶都是一个漆刷的么",
+          "likes": "2",
+          "user_name": "September"
+        },
+        {
+          "content": "蛋壳全屋刷下来大概要多少呀",
+          "likes": "2",
+          "user_name": "舟舟"
+        },
+        {
+          "content": "这是我刷之前，过两天过来交作业[合十R][合十R][合十R]可爱神保佑我成功",
+          "likes": "2",
+          "user_name": "珍珠日子爆炸头"
+        },
+        {
+          "content": "大师哪个色号可以告知下吗 谢谢[抱拳R]",
+          "likes": "1",
+          "user_name": "滴滴叭叭Wuuu小姐🎀"
+        },
+        {
+          "content": "效果好好啊，这算是几分光啊？",
+          "likes": "0",
+          "user_name": "小深深（别墅自装中）"
+        }
+      ],
+      "content": "[害羞R]我家蛋壳光目前刷第一遍安全下车咯，找的是没做过蛋壳光的师傅，也成功啦。一开始找的店里专门做蛋壳光的师傅，他来了以后发现我家石膏线太多不想做[笑哭R]\n\t\n[失望R]门店的师傅说要加钱，线条每米加8块，虎头线那些还要异形费，我说可以，但是他居然想来想去加钱也不做，因为这些钱是给店里，（店里好像按天跟他结算，他懒得做）。不过他给我留下了做蛋壳光的攻略！我按他说的教给我家油工师傅，他居然第一次做也成功了！\n\t\n❤️所以蛋壳光没有想象中那么可怕，大家也可以放心做！\n\t\n以下分享一下攻略：\n❤️第一：什么是蛋壳光？很多人误会用了丝光大师的刷子乳胶漆就会有质感，变成蛋壳光，那就错了🙅其实蛋壳光乳胶漆的一种，基本上所有品牌都有蛋壳光系列哦。直接问商家你要的颜色有没有蛋壳光。\n❤️第二：腻子阶段一定要找平，打着射灯去找师傅整改。我这没有做冲筋找平，但打灯后发现很多砂纸印，我买了360目砂纸让师傅又磨了一下就基本OK了。\n❤️第三：刷蛋壳光之前一定要把底漆刷到位，尤其是做完底漆才贴pu线条的，让师傅拿小刷子再把所有pu线补刷一遍，每个角落刷到位。\n❤️第四：涂刷其他步骤基本一样，该怎么刷怎么刷，有线条的就先用小刷子刷线条，再用滚筒。最大的不同是最后一定要拿滚筒顺着一个方向收光一遍（就用这部分刚刷完的滚筒去刷，不需要重新蘸取乳胶漆）\n❤️第五：一旦决定要刷某一面墙，让师傅中途不要休息，一口气把这面墙干完，不然容易有色差。\n❤️第六：如果要修补局部，这面墙最好都重新刷。所以我现在只刷了一遍，剩下一遍等全屋定制进场后再来刷，以防有局部修补。\n❤️第七：但也不用太焦虑要修补的地方，因为我还要做第二遍，就让师傅把其中个别地方修补了一下，（图5）确实能看出和别的地方不同，但是换个角度也看不出来，没有想象中那么明显的！\n❤️蛋壳光加法式线条真的绝美，就像护墙板，家里真的变得好贵的感觉！爱了\n#刷漆[话题]# #乳胶漆配色[话题]# #乳胶漆[话题]# #蛋壳光[话题]# #装修日常[话题]#\n\t\n———\n大家有美丽的蛋壳光照片也发出来看一看啊[飞吻R][飞吻R]",
+      "file_id": "",
+      "id": "7630642263689052187",
+      "item_id": "mat_9f70355fadb8",
+      "tags": [
+        "刷漆",
+        "乳胶漆配色",
+        "乳胶漆",
+        "蛋壳光",
+        "装修日常"
+      ],
+      "title": ""
+    }
+  ],
+  "errorBody": null,
+  "generated_images_data": [
+    {
+      "file_id": "",
+      "id": "res_1776647778936_0",
+      "item_id": "",
+      "type": "proposal_preview",
+      "url": "https://s.coze.cn/t/NRqfT-dYITA/"
+    }
+  ],
+  "isSuccess": true,
+  "is_success": true,
+  "msg": "物料提纯成功",
+  "product_specs_data": [
+    {
+      "doc_analysis": "【产品名称】：蛋壳光LEATHER TEXTURE PAINT涂料\n【核心卖点】：柔光质感；硬度高耐磨性强；防潮防霉；健康环保无甲醛；耐擦洗抗沾污；色彩稳定；施工宽容度高；可定制颜色纹理\n【目标人群与场景】：家装业主；高端住宅用户；宝妈；酒店装修方；零售空间装修方；办公装修方；旧墙翻新用户；石膏板装饰用户；保温装饰一体板装饰用户",
+      "file_id": "7630640429137969187",
+      "file_url": "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/pdf/7630643467793743891/%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf?x-expires=1777252508&x-signature=dj3F%2FVaBN1bi0pY71D3biLe78Bk%3D&x-wf-file_name=%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf",
+      "id": "7630640429137969187",
+      "item_id": ""
+    }
+  ],
+  "proposal_data": {
+    "audience": "装修做功课怕踩坑的刚需业主",
+    "content": "### 提案一：专业评测-参数扒皮\n- 🎯 细分受众：装修做功课怕踩坑的刚需业主\n- 🔥 爆款标题：蛋壳光涂料硬核评测！8项参数直接扒底💪\n- 📝 核心思路：拆解耐磨/防潮/环保等核心参数，破除市面虚假宣传误区\n- 🖼️ 画面构图：奶白弧形门洞墙面特写，标注各项性能测试数据",
+    "id": "res_1776647778936_0",
+    "image_url": null,
+    "index": 0,
+    "status": "success",
+    "title": "蛋壳光涂料硬核评测！8项参数直接扒底💪"
+  },
+  "proposal_image_urls": [
+    "https://s.coze.cn/t/NRqfT-dYITA/"
+  ],
+  "sys_config_dict": {
+    "audience": "guide_fans",
+    "audience_cn": "攻略粉丝",
+    "image_model": "jimeng",
+    "image_model_cn": "即梦4.5",
+    "ratio": "3:4",
+    "ratio_cn": "小红书",
+    "text_model": "doubao",
+    "text_model_cn": "豆包",
+    "tone": "expert",
+    "tone_cn": "专业评测"
+  }
+}

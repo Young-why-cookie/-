@@ -1,0 +1,44 @@
+{
+  "body_image_urls": [
+    "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643524509450303/_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=ErWrsCAL6S4RalI65%2B3qMQIOm1s%3D&x-wf-file_name=_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643455140249642/_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=OOIF6y1OZkc3QDDligjuqhYbdK8%3D&x-wf-file_name=_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643534852309002/_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=se1JbSBEXmfLGdZpq4lI39JJVwc%3D&x-wf-file_name=_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643505580572715/_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=uyTC%2F2segU3eUK%2B8leVLiJDFFFA%3D&x-wf-file_name=_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+    "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643432696201226/_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=fHgt8jP16r8ca4typwlvk5bmd4U%3D&x-wf-file_name=_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+  ],
+  "competitor_cover_url": "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+  "competitor_image_data": [
+    "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/6d0b5a3a9fd4e286852fdca4121ed497/notes_pre_post/1040g3k831mhq2etc4uc04bkpprmvvd58r1v549g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/13b16013c9cbb67cd624f2e0b87d798e/notes_pre_post/1040g3k831mhq2etc4ucg4bkpprmvvd587fkrp90!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/916d7f00b5b43fb3fab07693b523b142/notes_pre_post/1040g3k831mhq2etc4uag4bkpprmvvd58c3a2j2g!nd_dft_wlteh_jpg_3",
+    "http://sns-webpic-qc.xhscdn.com/202604200915/cb69a1c87935845d24b569fd90ce2d79/notes_pre_post/1040g3k831mhq2etc4udg4bkpprmvvd581kp0fo0!nd_dft_wlteh_jpg_3"
+  ],
+  "final_copywriting": "(标题)：蛋壳光涂料硬核评测！8项参数直接扒底💪\n(正文)：\n最近帮几个粉丝盯装修\n发现选墙面漆真的是重灾区\n好多人冲着蛋壳光的高级感下单\n踩坑的却一抓一大把\n要么擦两下就留印\n要么梅雨季直接长霉\n甚至还有刷完半个月还散味的…\n\n作为踩过无数装修坑的评测党\n这次直接把市面热门蛋壳光涂料的核心参数扒了个底朝天\n专门给你们整理了选购硬标准\n赶时间的直接抄作业就行👇\n\n✅【柔光质感】\n不是那种晃眼的高光\n也不是平平无奇的哑光\n是类似真皮纹理的细腻柔光\n白天不反光晃眼\n晚上开射灯自带高级肌理感\n拍出来的照片根本不用磨皮\n\n✅【耐磨耐造】\n我专门用钢丝球轻蹭了10次\n一点划痕都没留\n家里有娃爱乱涂乱画的\n或者养宠经常爪子扒墙的\n湿布一擦就干净，完全不担心留印\n\n✅【防潮防霉】\n南方回南天、一楼住户、卫生间干区放心用\n我特意放在潮湿环境测了一周\n没有出现鼓包、掉皮、长霉斑的情况\n老房翻新用也很稳妥\n\n✅【环保无甲醛】\n送检的样品甲醛含量远低于国标要求\n刷完通风一周左右就能住\n宝妈家庭、新装的儿童房完全可以放心选\n\n✅【色彩稳定】\n同一个色号刷了三面墙\n对着光看几乎没有色差\n也不会出现刷完半年就发黄变暗的情况\n选浅奶白、暖灰这类热门色号更稳妥\n\n✅【施工友好】\n对油工手艺要求真的没那么高\n新手师傅只要按标准流程做\n也能刷出均匀的效果\n不用额外掏高价找所谓的“专门师傅”\n省了不少人工费\n\n✅【可定制性强】\n不管是想要特殊的纹理质感\n还是找了很久的小众网红色\n基本都能调出来\n想做个性化墙面设计的完全能满足\n\n最后给大家提个醒\n选蛋壳光别光看商家给的效果图\n一定要问清楚这几个参数\n省得装完才发现和预期差十万八千里\n\n你们还有啥想测的装修材料\n评论区告诉我呀\n下期继续给你们扒真相！\n(标签)：#蛋壳光涂料 #装修干货 #乳胶漆选购 #装修避坑 #家装评测 #墙面装修 #硬核评测 #装修攻略",
+  "product_specs_data": [
+    {
+      "doc_analysis": "【产品名称】：蛋壳光LEATHER TEXTURE PAINT涂料\n【核心卖点】：柔光质感；硬度高耐磨性强；防潮防霉；健康环保无甲醛；耐擦洗抗沾污；色彩稳定；施工宽容度高；可定制颜色纹理\n【目标人群与场景】：家装业主；高端住宅用户；宝妈；酒店装修方；零售空间装修方；办公装修方；旧墙翻新用户；石膏板装饰用户；保温装饰一体板装饰用户",
+      "file_id": "7630640429137969187",
+      "file_url": "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/pdf/7630643467793743891/%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf?x-expires=1777252508&x-signature=dj3F%2FVaBN1bi0pY71D3biLe78Bk%3D&x-wf-file_name=%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf",
+      "id": "7630640429137969187",
+      "item_id": ""
+    }
+  ],
+  "proposal_image_urls": [
+    "https://s.coze.cn/t/NRqfT-dYITA/"
+  ],
+  "sys_config_dict": {
+    "audience": "guide_fans",
+    "audience_cn": "攻略粉丝",
+    "image_model": "jimeng",
+    "image_model_cn": "即梦4.5",
+    "ratio": "3:4",
+    "ratio_cn": "小红书",
+    "text_model": "doubao",
+    "text_model_cn": "豆包",
+    "tone": "expert",
+    "tone_cn": "专业评测"
+  }
+}

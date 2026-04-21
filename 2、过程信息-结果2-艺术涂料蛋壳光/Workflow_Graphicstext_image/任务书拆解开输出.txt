@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：中景镜头，墙面底部与浅灰色哑光水泥地面稳固接触，奶白色蛋壳光涂料墙面带有细腻皮革质感柔光肌理，墙面做了法式石膏线造型，顶部搭配精致雕花石膏线，嵌入式筒灯的光线打在墙面上呈现出柔和不晃眼的光泽，地面铺有装修用的黄色防护垫和硬纸板，整体为刚完成涂刷的家装施工现场氛围，低反差柔光，边缘轮廓光，真实家装纪实质感",
+      "images": [
+        "https://lf3-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643524509450303/_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=ErWrsCAL6S4RalI65%2B3qMQIOm1s%3D&x-wf-file_name=_4_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+      ],
+      "aspect_ratio": "3:4"
+    },
+    {
+      "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：中景镜头，墙面底部与浅灰色哑光水泥地面稳固接触，奶白色蛋壳光涂料墙面做了圆弧拱门造型，墙面呈现出细腻温润的柔光质感，无刺眼反光，同色号的墙面在自然光下色彩均匀无色差，远处墙面可见施工用的木梯，整体为统一的法式家装施工现场环境，侧光打亮肌理，自然白平衡，高细节质感还原",
+      "images": [
+        "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643455140249642/_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=OOIF6y1OZkc3QDDligjuqhYbdK8%3D&x-wf-file_name=_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+      ],
+      "aspect_ratio": "3:4"
+    },
+    {
+      "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：中景镜头，墙面底部与浅灰色哑光水泥地面稳固接触，测试人员正手持钢丝球轻蹭奶白色蛋壳光涂料墙面，墙面保持完整无划痕，旁边另一只手拿着湿布擦拭墙面的涂鸦痕迹，擦拭后的墙面无任何残留印记，墙面细腻柔光肌理清晰可见，整体环境为同系列法式家装施工现场，硬光凸显耐磨属性，高对比度，真实操作纪实感",
+      "images": [
+        "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643534852309002/_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=se1JbSBEXmfLGdZpq4lI39JJVwc%3D&x-wf-file_name=_5_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+      ],
+      "aspect_ratio": "3:4"
+    },
+    {
+      "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：特写镜头，墙面底部与浅灰色哑光水泥地面稳固接触，微距拍摄奶白色蛋壳光涂料的表面肌理，呈现出类似真皮的细腻颗粒感，光线照射下反射出柔和的丝绸光泽，没有哑光墙面的平淡感也没有高光墙面的刺眼反光，背景虚化露出同系列法式石膏线墙面，微距浅景深，柔光漫反射，质感细节拉满",
+      "images": [
+        "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643505580572715/_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=uyTC%2F2segU3eUK%2B8leVLiJDFFFA%3D&x-wf-file_name=_2_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+      ],
+      "aspect_ratio": "3:4"
+    },
+    {
+      "prompt": "【参考权重说明】：图1为产品物理结构锁死；图2为封面构图与留白排版参考；图3-5为竞品真实的场景元素与光影细节参考。请严格按此分配权重。\n当前分镜描述：全景镜头，墙面底部与浅灰色哑光水泥地面稳固接触，刚完成蛋壳光涂料涂刷的整屋空间，墙面、拱门、顶面全部为统一的奶白色调，色彩均匀一致，窗边搭着施工木梯，整体空间干净敞亮，蛋壳光墙面在窗外自然光下呈现出柔和的高级肌理感，整体为统一的法式家装完工现场氛围，大空间自然光，广色域色彩还原，环境光氛围感",
+      "images": [
+        "https://lf9-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643432696201226/_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=fHgt8jP16r8ca4typwlvk5bmd4U%3D&x-wf-file_name=_3_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/896a4a2d42a620c5019e6aa6a3d66739/notes_pre_post/1040g3k831mhq2etc4ud04bkpprmvvd582ekrbc0!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/8071988c785b98dd622babcf13836ea6/notes_pre_post/1040g3k831mhq2etc4ubg4bkpprmvvd58svma6oo!nd_dft_wlteh_jpg_3",
+        "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3"
+      ],
+      "aspect_ratio": "3:4"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "comp_inner_images": [
+    "http://sns-webpic-qc.xhscdn.com/202604200915/cb69a1c87935845d24b569fd90ce2d79/notes_pre_post/1040g3k831mhq2etc4udg4bkpprmvvd581kp0fo0!nd_dft_wlteh_jpg_3"
+  ],
+  "copy_full_output": "### 提案一：专业评测-参数扒皮\n- 🎯 细分受众：装修做功课怕踩坑的刚需业主\n- 🔥 爆款标题：蛋壳光涂料硬核评测！8项参数直接扒底💪\n- 📝 核心思路：拆解耐磨/防潮/环保等核心参数，破除市面虚假宣传误区\n- 🖼️ 画面构图：奶白弧形门洞墙面特写，标注各项性能测试数据\n\n### 提案二：专业评测-施工实测\n- 🎯 细分受众：怕师傅不会刷多花冤枉钱的业主\n- 🔥 爆款标题：新手油工也能刷！蛋壳光施工宽容度实测✅\n- 📝 核心思路：模拟无经验师傅施工场景，验证易操作无接痕的卖点\n- 🖼️ 画面构图：未完工奶油风空间，实拍涂刷全过程对比\n\n### 提案三：专业评测-场景测试\n- 🎯 细分受众：南方潮湿地区需要旧墙翻新的用户\n- 🔥 爆款标题：回南天也不发霉！蛋壳光防潮耐造实测🌧️\n- 📝 核心思路：模拟泼洒/刮擦/高湿环境，测试耐擦洗防霉性能\n- 🖼️ 画面构图：浅棕调墙面做泼水、刮擦测试，前后效果对比\n\n### 提案四：专业评测-成本核算\n- 🎯 细分受众：追求高性价比的中小工装装修方\n- 🔥 爆款标题：比普通漆省30%！蛋壳光全周期成本测算💸\n- 📝 核心思路：对比普通漆5年维护成本，突出耐用少翻新的优势\n- 🖼️ 画面构图：墙面旁放成本对比表格，清晰展示价差\n\n### 提案五：专业评测-定制落地\n- 🎯 细分受众：追求质感的高端住宅/商业空间业主\n- 🔥 爆款标题：100种配色不翻车！蛋壳光定制效果实测🎨\n- 🎯 细分受众：高端定制需求的业主/工装方\n- 🔥 爆款标题：100种配色不翻车！蛋壳光定制效果实测🎨\n- 📝 核心思路：测试不同颜色纹理定制效果，验证色彩稳定无偏差\n- 🖼️ 画面构图：弧形门洞旁展示不同色卡上墙的实景效果",
+  "cover_ref_image": "http://sns-webpic-qc.xhscdn.com/202604200915/2b343cc6b3ee3bd3f8c26095d4d59e4b/notes_pre_post/1040g3k831mhq2etc4ub04bkpprmvvd58ln6rabg!nd_dft_wlteh_jpg_3",
+  "doc_cache_payload": "",
+  "doc_result_item_list": [
+    {
+      "db_id": "7630640429137969187",
+      "db_table": "tool_history",
+      "doc_full_analysis": "【产品名称】：蛋壳光LEATHER TEXTURE PAINT涂料\n【核心卖点】：柔光质感；硬度高耐磨性强；防潮防霉；健康环保无甲醛；耐擦洗抗沾污；色彩稳定；施工宽容度高；可定制颜色纹理\n【目标人群与场景】：家装业主；高端住宅用户；宝妈；酒店装修方；零售空间装修方；办公装修方；旧墙翻新用户；石膏板装饰用户；保温装饰一体板装饰用户",
+      "item_id": "7630643467793743891",
+      "name": "电子版蛋壳光.pdf",
+      "url": "https://lf6-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/application/pdf/7630643467793743891/%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf?x-expires=1777252508&x-signature=dj3F%2FVaBN1bi0pY71D3biLe78Bk%3D&x-wf-file_name=%E7%94%B5%E5%AD%90%E7%89%88%E8%9B%8B%E5%A3%B3%E5%85%89.pdf"
+    }
+  ],
+  "real_shots": [
+    "https://lf26-bot-platform-tos-sign.coze.cn/bot-studio-bot-platform/bot_files/2517201771568727/image/jpeg/7630643455140249642/_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg?x-expires=1777252508&x-signature=OOIF6y1OZkc3QDDligjuqhYbdK8%3D&x-wf-file_name=_1_%E9%83%91%E5%B7%9E%E5%93%81%E8%B4%A8%E8%A3%85%E4%BF%AE%E4%B8%A8%E6%B1%9F%E8%8B%8F%E5%91%A8%E5%B7%A5_%E6%9D%A5%E8%87%AA%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BD%91%E9%A1%B5%E7%89%88.jpg"
+  ],
+  "sys_config_dict": "3:4"
+}
